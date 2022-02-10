@@ -14,6 +14,9 @@
   <a href="https://www.instructables.com/member/danionescu/instructables" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=instructables" />        
   </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4862301/dan-ionescu" target="_blank">
+     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=4862301" />
+  </a>
 </p>
 
 <p align='center'>
