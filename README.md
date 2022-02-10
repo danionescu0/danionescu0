@@ -1,4 +1,23 @@
-### Hi there 👋
+h1 align='center'>
+  Hi there 👋 I'm Dan 👨‍💻
+</h1>
+
+<p align='center'>
+  A software developer from Bucharest, Romania
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/dan-ionescu-0a256b44">
+    <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instructables.com/member/danionescu/instructables">
+    <img src="https://a11ybadges.com/badge?logo=instructables" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <!--
 **danionescu0/danionescu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
