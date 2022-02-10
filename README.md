@@ -22,6 +22,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=danionescu0&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<p align='center'>
+  📫 You can message me on <a href="https://www.linkedin.com/in/dan-ionescu-0a256b44">LinkedIn</a>
+</p>
 <!--
 **danionescu0/danionescu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
