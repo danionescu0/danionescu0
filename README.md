@@ -10,10 +10,10 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/dan-ionescu-0a256b44">
+  <a href="https://www.linkedin.com/in/dan-ionescu-0a256b44" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instructables.com/member/danionescu/instructables">
+  <a href="https://www.instructables.com/member/danionescu/instructables" target="_blank">
     <img src="https://a11ybadges.com/badge?logo=instructables" />        
   </a>&nbsp;&nbsp;
   
