@@ -25,6 +25,10 @@
 <p align='center'>
   📫 You can message me on <a href="https://www.linkedin.com/in/dan-ionescu-0a256b44">LinkedIn</a>
 </p>
+<p align='center'>
+  📫 You can endorse my work by buying me a <a href="https://www.buymeacoffee.com/danionescu">cofee</a> :)
+</p>
+
 <!--
 **danionescu0/danionescu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
